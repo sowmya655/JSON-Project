@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "id": "1001",
+      "name": "chair",
+      "price": "500",
+      "quantity": "8"
+    }
+  ]
+}
